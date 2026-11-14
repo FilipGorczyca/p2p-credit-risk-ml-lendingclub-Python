@@ -25,7 +25,7 @@ Widely accessible dichotomous classification tools—spanning classical economet
 ## Exploratory Data Analysis (LendingClub Portfolio, 2007–2018)
 
 <p align="center">
-  <img src="./usa_loan_volume_map.jpg" alt="Total Loan Volume Across US States" width="85%">
+  <img src="./usa_loan_volume_map.png" alt="Total Loan Volume Across US States" width="85%">
   <br>
   <em>Figure 1: Geographic concentration of total originated loan volume (in USD billions) across top US states, led by California ($4.8B), Texas ($2.9B), New York ($2.8B), and Florida ($2.3B).</em>
 </p>
